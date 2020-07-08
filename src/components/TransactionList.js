@@ -5,7 +5,6 @@ import { Transaction } from "./Transaction";
 
 export const TransactionList = () => {
     const {transaction} = useContext(GlobalContext)
-    
  
     return (
        <>
